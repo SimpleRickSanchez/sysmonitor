@@ -127,7 +127,8 @@ func statusPage(c *gin.Context) {
 			div {
 				color: beige;
 				columns: 2;
-				column-gap: 250px;
+				column-gap: 150px;
+				padding-left:50px;
 			}
 	
 			p {
